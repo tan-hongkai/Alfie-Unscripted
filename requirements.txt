@@ -1,1 +1,10 @@
 streamlit
+pandas
+numpy
+Pillow
+wordcloud
+matplotlib
+textblob
+nltk
+networkx
+seaborn

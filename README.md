@@ -1,19 +1,16 @@
-# 🎈 Blank app template
+# 💬Alfie-Unscripted
+https://alfie-unscripted.streamlit.app/
 
-A simple Streamlit app template for you to modify!
+### Overview
+The app processes Alfie Solomons' dialogues to visualize his speech patterns, moods, and word usage.This project was created out of a personal fascination with Alfie Solomons' unique dialogue style and character portrayal. It does not hold significant business value but serves as a fun exploration of character analysis through data visualization.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## What I Learned
+1. Natural Language Processing (NLP) from implementing sentiment analysis and tokenization to better understand dialogue content.
 
-### How to run it on your own machine
+2. Handling processing of text data, such as aggregating text, handling special characters and stopwords.
 
-1. Install the requirements
+3. How bigram and possibly trigram networks visualize word pair relationships within dialogues.
 
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+### Notes
+- Last Updated: 15/9/2024 (Never Updates)
+- By: Hong Kai

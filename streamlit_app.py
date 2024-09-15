@@ -16,7 +16,7 @@ from collections import Counter
 alfie_data = pd.read_csv('alfie_data_processed.csv')
 alfie_mask = np.array(Image.open('alfie.png'))
 
-st.set_page_config(layout="centred",page_title='Alfie-Unscripted')
+st.set_page_config(layout="centered",page_title='Alfie-Unscripted')
 st.title('💬Alfie-Unscripted')
 
 all_dialogues = ' '.join(alfie_data['Dialog'])
